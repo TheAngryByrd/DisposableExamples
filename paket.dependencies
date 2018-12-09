@@ -1,0 +1,5 @@
+source https://www.nuget.org/api/v2
+storage: none
+nuget Expecto
+nuget Npgsql
+nuget Simple.Migrations
